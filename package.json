@@ -1,0 +1,23 @@
+{
+  "name": "taiba-academy-smart-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "description": "Arabic academic assistant PWA with a local knowledge base and a secure Gemini layer on Vercel.",
+  "author": "Kyrillos Ayman",
+  "license": "MIT",
+  "keywords": [
+    "pwa",
+    "gemini",
+    "chatbot",
+    "arabic",
+    "vercel"
+  ]
+}
